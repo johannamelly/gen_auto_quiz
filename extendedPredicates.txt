@@ -1,0 +1,53 @@
+has part
+characters
+has pet
+part of
+father
+mother
+children
+child
+family
+spouse
+significent event
+residence
+author
+illustrator
+takes place in fictional universe
+list of characters
+named after
+killed by
+position played on team / speciality
+member of
+creator
+performer
+from fictional universe
+fictional universe described in
+has list
+record label
+discography
+participant of
+allegiance
+has cause
+has effect
+child
+place of detention
+position held
+movement
+political ideology
+commander of
+student
+participant of
+conflict
+military branch
+notable work
+director
+composer
+cast member
+executive producer
+producer
+inspired by
+after a work by
+theme music
+narrative location
+developer
+founded by
